@@ -1,15 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Sublime Hugo</title>
-    <link>https://example.com/tags/</link>
-    <description>Recent content in Tags on Sublime Hugo</description>
+    <title>Tags on Playing with Hugo - Baumannzone</title>
+    <link>https://baumannzone.github.io/hugo-playing/tags/</link>
+    <description>Recent content in Tags on Playing with Hugo - Baumannzone</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>©--</copyright>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 Oct 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://baumannzone.github.io/hugo-playing/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Development</title>
+      <link>https://baumannzone.github.io/hugo-playing/tags/development/</link>
+      <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://baumannzone.github.io/hugo-playing/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go</title>
+      <link>https://baumannzone.github.io/hugo-playing/tags/go/</link>
+      <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://baumannzone.github.io/hugo-playing/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>https://baumannzone.github.io/hugo-playing/tags/golang/</link>
+      <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://baumannzone.github.io/hugo-playing/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://baumannzone.github.io/hugo-playing/tags/hugo/</link>
+      <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://baumannzone.github.io/hugo-playing/tags/hugo/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

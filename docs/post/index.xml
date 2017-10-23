@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Playing with Hugo - Baumannzone</title>
-    <link>https://baumannzone.github.io/hugo-playing/</link>
-    <description>Recent content on Playing with Hugo - Baumannzone</description>
+    <title>Posts on Playing with Hugo - Baumannzone</title>
+    <link>https://baumannzone.github.io/hugo-playing/post/</link>
+    <description>Recent content in Posts on Playing with Hugo - Baumannzone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 23 Oct 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://baumannzone.github.io/hugo-playing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://baumannzone.github.io/hugo-playing/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
