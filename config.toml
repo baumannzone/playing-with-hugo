@@ -6,8 +6,8 @@ languageCode = "en"
 title = "Playing with Hugo - Baumannzone"
 theme = "hugo-theme-cactus-plus"
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = "your_google_analytics_code"
-hasCJKLanguage = true
+googleAnalytics = "UA-60085396-7"
+hasCJKLanguage = false
 
 [params]
 	name = "Jorge Baumann"
@@ -35,7 +35,7 @@ hasCJKLanguage = true
 	# translate or customize each string of the theme.
 
 	# Navigation links
-	home = "Home"
+	home = ""
 	about = ""
 	archive = ""
 	subscribe = ""
