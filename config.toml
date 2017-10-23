@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://baumannzone.github.io/hugo-playing/"
+baseurl = "https://baumannzone.github.io/playing-with-hugo/"
 publishDir = "docs"
 # HTML Language Code Reference, such as en, zh-cn
 languageCode = "en"
@@ -22,7 +22,7 @@ hasCJKLanguage = false
 	# Disable disqus comments by set `enableDisqus = "false"`
 	enableDisqus = true
 
-	enableGithubIssuesTips = false
+	enableGithubIssuesTips = true
 
 	# Enable googleAnalytics
 	enableGoogleAnalytics = true
@@ -55,12 +55,12 @@ hasCJKLanguage = false
 
 	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
 	iconFont = "font-awesome"
-  # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
-  socialIconStyle = ""
+	# The social icons can be styled differently if you use mono as font - circle, rounded, or empty
+	socialIconStyle = ""
 
 
 # Add additional social link entries underneath
 [social]
-    terminal = "your_facebook_link"
+    terminal = "http://baumannzone.com"
     twitter-square = "https://twitter.com/baumannzone"
     github-square = "https://github.com/baumannzone"
