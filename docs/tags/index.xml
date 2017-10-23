@@ -2,48 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Playing with Hugo - Baumannzone</title>
-    <link>https://baumannzone.github.io/hugo-playing/tags/</link>
+    <link>https://baumannzone.github.io/playing-with-hugo/tags/</link>
     <description>Recent content in Tags on Playing with Hugo - Baumannzone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://baumannzone.github.io/hugo-playing/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://baumannzone.github.io/playing-with-hugo/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>https://baumannzone.github.io/hugo-playing/tags/development/</link>
-      <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
+      <link>https://baumannzone.github.io/playing-with-hugo/tags/development/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://baumannzone.github.io/hugo-playing/tags/development/</guid>
+      <guid>https://baumannzone.github.io/playing-with-hugo/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>https://baumannzone.github.io/hugo-playing/tags/go/</link>
-      <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
+      <link>https://baumannzone.github.io/playing-with-hugo/tags/go/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://baumannzone.github.io/hugo-playing/tags/go/</guid>
+      <guid>https://baumannzone.github.io/playing-with-hugo/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>https://baumannzone.github.io/hugo-playing/tags/golang/</link>
+      <link>https://baumannzone.github.io/playing-with-hugo/tags/golang/</link>
       <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://baumannzone.github.io/hugo-playing/tags/golang/</guid>
+      <guid>https://baumannzone.github.io/playing-with-hugo/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>https://baumannzone.github.io/hugo-playing/tags/hugo/</link>
+      <link>https://baumannzone.github.io/playing-with-hugo/tags/hugo/</link>
       <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://baumannzone.github.io/hugo-playing/tags/hugo/</guid>
+      <guid>https://baumannzone.github.io/playing-with-hugo/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Static Generator</title>
+      <link>https://baumannzone.github.io/playing-with-hugo/tags/static-generator/</link>
+      <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://baumannzone.github.io/playing-with-hugo/tags/static-generator/</guid>
       <description></description>
     </item>
     

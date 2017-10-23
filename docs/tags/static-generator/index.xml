@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Static Generator on Playing with Hugo - Baumannzone</title>
+    <link>https://baumannzone.github.io/playing-with-hugo/tags/static-generator/</link>
+    <description>Recent content in Static Generator on Playing with Hugo - Baumannzone</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://baumannzone.github.io/playing-with-hugo/tags/static-generator/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello (Hu)go!</title>
+      <link>https://baumannzone.github.io/playing-with-hugo/post/my-first-post/</link>
+      <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://baumannzone.github.io/playing-with-hugo/post/my-first-post/</guid>
+      <description>Hello Hugo! Basic Syntax Go lang templates are html files with the addition of variables and functions.
+Go variables and functions are accessible within {{ }}
+Accessing a predefined variable &amp;ldquo;foo&amp;rdquo;:
+{{ foo }}  Parameters are separated using spaces
+Calling the add function with input of 1, 2:
+{{ add 1 2 }}  Methods and fields are accessed via dot notation
+Accessing the Page Parameter &amp;ldquo;bar&amp;rdquo;
+{{ .</description>
+    </item>
+    
+  </channel>
+</rss>
