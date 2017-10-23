@@ -13,32 +13,28 @@
     
     <item>
       <title>Hello (Hu)go!</title>
-      <link>https://baumannzone.github.io/playing-with-hugo/post/my-first-post/</link>
+      <link>https://baumannzone.github.io/playing-with-hugo/post/hello-hugo/</link>
       <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://baumannzone.github.io/playing-with-hugo/post/my-first-post/</guid>
-      <description>Hello Hugo! Basic Syntax Go lang templates are html files with the addition of variables and functions.
+      <guid>https://baumannzone.github.io/playing-with-hugo/post/hello-hugo/</guid>
+      <description>Hello Hugo! Playing with Hugo, a static site generator. This is a demo post with tags &amp;amp; categories.
+Basic Syntax Go lang templates are html files with the addition of variables and functions.
 Go variables and functions are accessible within {{ }}
-Accessing a predefined variable &amp;ldquo;foo&amp;rdquo;:
+Accessing a predefined variable foo:
 {{ foo }}  Parameters are separated using spaces
 Calling the add function with input of 1, 2:
-{{ add 1 2 }}  Methods and fields are accessed via dot notation
-Accessing the Page Parameter &amp;ldquo;bar&amp;rdquo;
-{{ .</description>
+{{ add 1 2 }}  Methods and fields are accessed via dot notation</description>
     </item>
     
     <item>
-      <title>Getting Started with Hugo</title>
-      <link>https://baumannzone.github.io/playing-with-hugo/post/my-first-post2/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Web Dev</title>
+      <link>https://baumannzone.github.io/playing-with-hugo/post/web-dev/</link>
+      <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://baumannzone.github.io/playing-with-hugo/post/my-first-post2/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+      <guid>https://baumannzone.github.io/playing-with-hugo/post/web-dev/</guid>
+      <description>Draw a Gameboy with HTML &amp;amp; CSS Hello again, my name is Jorge and I&amp;rsquo;ve drawn the Original Gameboy with html,css and some javascript lines.
+Check the full demo here: gameboy.
+Repository url: https://github.com/baumannzone/gameboy-css</description>
     </item>
     
   </channel>

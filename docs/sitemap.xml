@@ -3,7 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://baumannzone.github.io/playing-with-hugo/post/my-first-post/</loc>
+    <loc>https://baumannzone.github.io/playing-with-hugo/post/hello-hugo/</loc>
+    <lastmod>2017-10-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://baumannzone.github.io/playing-with-hugo/post/web-dev/</loc>
     <lastmod>2017-10-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -13,18 +18,13 @@
   </url>
   
   <url>
-    <loc>https://baumannzone.github.io/playing-with-hugo/post/my-first-post2/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://baumannzone.github.io/playing-with-hugo/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://baumannzone.github.io/playing-with-hugo/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://baumannzone.github.io/playing-with-hugo/categories/css/</loc>
+    <lastmod>2017-10-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -35,8 +35,8 @@
   </url>
   
   <url>
-    <loc>https://baumannzone.github.io/playing-with-hugo/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://baumannzone.github.io/playing-with-hugo/tags/gameboy/</loc>
+    <lastmod>2017-10-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -53,7 +53,19 @@
   </url>
   
   <url>
+    <loc>https://baumannzone.github.io/playing-with-hugo/categories/html/</loc>
+    <lastmod>2017-10-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://baumannzone.github.io/playing-with-hugo/tags/hugo/</loc>
+    <lastmod>2017-10-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://baumannzone.github.io/playing-with-hugo/categories/js/</loc>
     <lastmod>2017-10-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -71,14 +83,8 @@
   </url>
   
   <url>
-    <loc>https://baumannzone.github.io/playing-with-hugo/tags/static-generator/</loc>
-    <lastmod>2017-10-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://baumannzone.github.io/playing-with-hugo/tags/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

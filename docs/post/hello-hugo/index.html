@@ -7,7 +7,7 @@
 		<meta name="author" content="Jorge Baumann">
 		<meta name="description" content="Playing with Hugo, static site generator">
 		<meta name="generator" content="Hugo 0.30.2" />
-		<title>About &middot; Playing with Hugo - Baumannzone</title>
+		<title>Hello (Hu)go! &middot; Playing with Hugo - Baumannzone</title>
 		<link rel="shortcut icon" href="https://baumannzone.github.io/playing-with-hugo/images/favicon.ico">
 		<link rel="stylesheet" href="https://baumannzone.github.io/playing-with-hugo/css/style.css">
 		<link rel="stylesheet" href="https://baumannzone.github.io/playing-with-hugo/css/highlight.css">
@@ -35,35 +35,102 @@
 	
 </nav>
 
-<div class="profile">
-    <section id="wrapper">
-        <header id="header">
-            <a href='https://baumannzone.github.io/playing-with-hugo/about'>
-                <img id="avatar" class="2x" src="https://baumannzone.github.io/playing-with-hugo/images/avatar.png"/>
-            </a>
-            <h1>Jorge Baumann</h1>
-            <h2>Playing with Hugo</h2>
-        </header>
+
+<section id="wrapper">
+  <article class="post">
+    <header>
+      <h1>
+        Hello (Hu)go!
+      </h1>
+      <h2 class="headline">
+        23 Oct 2017
+        · 177 words
+        · 1 minute read
+        <span class="tags">
+          
+            
+              
+                <a href="https://baumannzone.github.io/playing-with-hugo/tags/golang">golang</a> /
+              
+                <a href="https://baumannzone.github.io/playing-with-hugo/tags/hugo">hugo</a> /
+              
+            
+          
+          </span>
+      </h2>
+    </header>
+    
+    <section id="post-body">
+      
+
+<h1 id="hello-hugo">Hello Hugo!</h1>
+
+<p>Playing with Hugo, a static site generator. This is a demo post with tags &amp; categories.</p>
+
+<h2 id="basic-syntax">Basic Syntax</h2>
+
+<p>Go lang templates are html files with the addition of variables and
+functions.</p>
+
+<p><strong>Go variables and functions are accessible within <code>{{ }}</code></strong></p>
+
+<p>Accessing a predefined variable <code>foo</code>:</p>
+
+<pre><code>{{ foo }}
+</code></pre>
+
+<p><strong>Parameters are separated using spaces</strong></p>
+
+<p>Calling the add function with input of 1, 2:</p>
+
+<pre><code>{{ add 1 2 }}
+</code></pre>
+
+<p><strong>Methods and fields are accessed via dot notation</strong></p>
+
+<p>Accessing the Page Parameter <code>bar</code></p>
+
+<pre><code>{{ .Params.bar }}
+</code></pre>
+
+<p><strong>Parentheses can be used to group items together</strong></p>
+
+<pre><code>{{ if or (isset .Params &quot;alt&quot;) (isset .Params &quot;caption&quot;) }} Caption {{ end }}
+</code></pre>
+
+<h2 id="variables">Variables</h2>
+
+<p>Each go template has a struct (object) made available to it. In hugo each
+template is passed either a page or a node struct depending on which type of
+page you are rendering. More details are available on the variables page.</p>
+
+<p>A variable is accessed by referencing the variable name.</p>
+
+<pre><code>&lt;title&gt;{{ .Title }}&lt;/title&gt;
+</code></pre>
+
+<p>Variables can also be defined and referenced.</p>
+
+<pre><code>{{ $address := &quot;123 Main St.&quot;}}
+{{ $address }}
+</code></pre>
+
     </section>
+  </article>
+
+  
+  <div id="disqus_thread"></div>
+<div style="font-style: italic;">
+  Repo Github available here:
+  <a href="https://github.com/baumannzone/hugo-playing">hugo-playing</a>
+</div>
 </div>
 
+  
 
-<section id="wrapper" class="home">
-    
-
-<p>lmao what
-Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-
-<hr />
-
-<h3 id="lorem-ipsum-dolor">Lorem ipsum dolor.</h3>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea dicta corporis ad inventore itaque impedit dolor atque amet exercitationem! Veniam qui voluptas maiores vel laudantium necessitatibus, velit ducimus! Iste hic facere, accusamus fugiat enim facilis.</p>
-
-
-    
-        
-            <div id="disqus_thread"></div>
+  
+  
+  <div id="disqus_thread"></div>
 <script type="text/javascript">
     var disqus_shortname = 'playing-with-hugo'; 
 
@@ -77,12 +144,12 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 </div>
 
-        
-    
+  
+  
 
-    
+  
 
-    <footer id="footer">
+  <footer id="footer">
     
         <div id="social">
 
@@ -141,3 +208,4 @@ ga('send', 'pageview');
 
 
 </body>
+</html>

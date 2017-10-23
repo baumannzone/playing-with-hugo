@@ -6,26 +6,17 @@
     <description>Recent content in Tags on Playing with Hugo - Baumannzone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://baumannzone.github.io/playing-with-hugo/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Development</title>
-      <link>https://baumannzone.github.io/playing-with-hugo/tags/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Gameboy</title>
+      <link>https://baumannzone.github.io/playing-with-hugo/tags/gameboy/</link>
+      <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://baumannzone.github.io/playing-with-hugo/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Go</title>
-      <link>https://baumannzone.github.io/playing-with-hugo/tags/go/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://baumannzone.github.io/playing-with-hugo/tags/go/</guid>
+      <guid>https://baumannzone.github.io/playing-with-hugo/tags/gameboy/</guid>
       <description></description>
     </item>
     
@@ -44,15 +35,6 @@
       <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://baumannzone.github.io/playing-with-hugo/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Static Generator</title>
-      <link>https://baumannzone.github.io/playing-with-hugo/tags/static-generator/</link>
-      <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://baumannzone.github.io/playing-with-hugo/tags/static-generator/</guid>
       <description></description>
     </item>
     
