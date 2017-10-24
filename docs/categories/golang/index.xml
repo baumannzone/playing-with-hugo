@@ -13,10 +13,10 @@
     
     <item>
       <title>Hello (Hu)go!</title>
-      <link>https://baumannzone.github.io/playing-with-hugo/post/hello-hugo/</link>
+      <link>https://baumannzone.github.io/playing-with-hugo/post/001-hello-hugo/</link>
       <pubDate>Sun, 22 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://baumannzone.github.io/playing-with-hugo/post/hello-hugo/</guid>
+      <guid>https://baumannzone.github.io/playing-with-hugo/post/001-hello-hugo/</guid>
       <description>Hello Hugo! Playing with Hugo, a static site generator. This is a demo post with tags &amp;amp; categories.
 Basic Syntax Go lang templates are html files with the addition of variables and functions.
 Go variables and functions are accessible within {{ }}
