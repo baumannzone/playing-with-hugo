@@ -4,11 +4,10 @@ title = "About"
 hidden = true
 +++
 
-lmao what
-Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+Hi folks!  
 
-***
+My name is Jorge [Baumann](https://twitter.com/baumannzone) and I'm a front-end gardener. I'm a meticulous & perfection 
+searcher when the thing is about the web. I like to craft sites and try new technologies.  
 
-### Lorem ipsum dolor.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea dicta corporis ad inventore itaque impedit dolor atque amet exercitationem! Veniam qui voluptas maiores vel laudantium necessitatibus, velit ducimus! Iste hic facere, accusamus fugiat enim facilis.
+### Drawing a Gameboy with CSS
+{{< youtube 9G_4hoLzoVc >}}
