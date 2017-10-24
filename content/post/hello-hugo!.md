@@ -1,7 +1,7 @@
 +++
 title = "Hello (Hu)go!"
 description = "Playing with Hugo"
-date = "2017-10-23"
+date = "2017-10-22"
 tags = [
     "golang",
     "hugo"

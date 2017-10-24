@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>Web Dev</title>
-      <link>https://baumannzone.github.io/playing-with-hugo/post/web-dev/</link>
+      <title>CSS Gameboy</title>
+      <link>https://baumannzone.github.io/playing-with-hugo/post/css-gameboy/</link>
       <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://baumannzone.github.io/playing-with-hugo/post/web-dev/</guid>
+      <guid>https://baumannzone.github.io/playing-with-hugo/post/css-gameboy/</guid>
       <description>Draw a Gameboy with HTML &amp;amp; CSS Hello again, my name is Jorge and I&amp;rsquo;ve drawn the Original Gameboy with html,css and some javascript lines.
 Check the full demo here: gameboy.
 Repository url: https://github.com/baumannzone/gameboy-css</description>

@@ -12,9 +12,20 @@
     
     
     <item>
+      <title>CSS Gameboy</title>
+      <link>https://baumannzone.github.io/playing-with-hugo/post/css-gameboy/</link>
+      <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://baumannzone.github.io/playing-with-hugo/post/css-gameboy/</guid>
+      <description>Draw a Gameboy with HTML &amp;amp; CSS Hello again, my name is Jorge and I&amp;rsquo;ve drawn the Original Gameboy with html,css and some javascript lines.
+Check the full demo here: gameboy.
+Repository url: https://github.com/baumannzone/gameboy-css</description>
+    </item>
+    
+    <item>
       <title>Hello (Hu)go!</title>
       <link>https://baumannzone.github.io/playing-with-hugo/post/hello-hugo/</link>
-      <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 22 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://baumannzone.github.io/playing-with-hugo/post/hello-hugo/</guid>
       <description>Hello Hugo! Playing with Hugo, a static site generator. This is a demo post with tags &amp;amp; categories.
@@ -24,17 +35,6 @@ Accessing a predefined variable foo:
 {{ foo }}  Parameters are separated using spaces
 Calling the add function with input of 1, 2:
 {{ add 1 2 }}  Methods and fields are accessed via dot notation</description>
-    </item>
-    
-    <item>
-      <title>Web Dev</title>
-      <link>https://baumannzone.github.io/playing-with-hugo/post/web-dev/</link>
-      <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://baumannzone.github.io/playing-with-hugo/post/web-dev/</guid>
-      <description>Draw a Gameboy with HTML &amp;amp; CSS Hello again, my name is Jorge and I&amp;rsquo;ve drawn the Original Gameboy with html,css and some javascript lines.
-Check the full demo here: gameboy.
-Repository url: https://github.com/baumannzone/gameboy-css</description>
     </item>
     
   </channel>

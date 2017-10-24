@@ -6,7 +6,7 @@
     <description>Recent content in Golang on Playing with Hugo - Baumannzone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://baumannzone.github.io/playing-with-hugo/tags/golang/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Hello (Hu)go!</title>
       <link>https://baumannzone.github.io/playing-with-hugo/post/hello-hugo/</link>
-      <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 22 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://baumannzone.github.io/playing-with-hugo/post/hello-hugo/</guid>
       <description>Hello Hugo! Playing with Hugo, a static site generator. This is a demo post with tags &amp;amp; categories.
