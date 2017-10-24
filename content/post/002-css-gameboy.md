@@ -15,8 +15,6 @@ categories = [
 menu = "main"
 +++
 
-
-
 # Draw a Gameboy with HTML & CSS
 Hello again, my name is Jorge and I've drawn the Original Gameboy with `html`,`css` and some `javascript` lines.  
 

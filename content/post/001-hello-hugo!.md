@@ -15,7 +15,8 @@ menu = "main"
 
 # Hello Hugo!
 
-Playing with Hugo, a static site generator. This is a demo post with tags & categories.
+Hugo is a static generator, and from my point of view it's really fast. Especially if you compare it with [Jekyll](https://jekyllrb.com/).  
+This is just a demo post with `tags` & `categories`.
 
 ## Basic Syntax
 
