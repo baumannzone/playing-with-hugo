@@ -61,6 +61,5 @@ hasCJKLanguage = false
 
 # Add additional social link entries underneath
 [social]
-    terminal = "http://baumannzone.com"
     twitter-square = "https://twitter.com/baumannzone"
     github-square = "https://github.com/baumannzone"

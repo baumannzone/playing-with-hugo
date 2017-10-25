@@ -9,7 +9,15 @@ This is a basic demo where I play with [Hugo](https://gohugo.io/) v0.30.2, the s
 - Shortcodes
 - Built-in functions & Variables
 - Custom CSS & js
+- Disqus
+- Google analytics
+- Little-customized theme
+- Awesome **about** page
+
 
 ### Usage
 Go to `/docs` folder. Open `index.html` as you usually do with a normal website and navigate.
+
+
+
 
