@@ -12,7 +12,7 @@ This is a basic demo where I play with [Hugo](https://gohugo.io/) v0.30.2, the s
 - Disqus
 - Google analytics
 - Little-customized theme
-- Awesome **about** page
+- Awesome **about** page 🦄
 
 
 ### Usage
