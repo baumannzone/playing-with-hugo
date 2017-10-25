@@ -28,13 +28,12 @@ Repository url: https://github.com/baumannzone/gameboy-css</description>
       <pubDate>Sun, 22 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://baumannzone.github.io/playing-with-hugo/post/001-hello-hugo/</guid>
-      <description>Hello Hugo! Playing with Hugo, a static site generator. This is a demo post with tags &amp;amp; categories.
+      <description>Hello Hugo! Hugo is a static generator, and from my point of view it&amp;rsquo;s really fast. Especially if you compare it with Jekyll.
+This is just a demo post with tags &amp;amp; categories.
 Basic Syntax Go lang templates are html files with the addition of variables and functions.
 Go variables and functions are accessible within {{ }}
 Accessing a predefined variable foo:
-{{ foo }}  Parameters are separated using spaces
-Calling the add function with input of 1, 2:
-{{ add 1 2 }}  Methods and fields are accessed via dot notation</description>
+{{ foo }}  Parameters are separated using spaces</description>
     </item>
     
   </channel>
