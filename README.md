@@ -1,7 +1,7 @@
 # Playing with Hugo
 This is a basic demo where I play with [Hugo](https://gohugo.io/) v0.30.2, the static site generator. 
 
-![baumannzone-rainbow](./docs/images/baumannzone-rainbow.png)
+![baumannzone-rainbow](./docs/images/baumannzone-rainbow.gif)
 
 ### Hugo features used
 - Blog
